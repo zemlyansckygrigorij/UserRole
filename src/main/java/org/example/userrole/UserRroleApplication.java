@@ -1,4 +1,4 @@
-package org.example.userrrole;
+package org.example.userrole;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
